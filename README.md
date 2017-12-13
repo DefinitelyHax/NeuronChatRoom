@@ -3,9 +3,9 @@ Encrypted Chatroom - Neuron
 
 ##################################################################################################
 
-Port = 438
-IP address = 127.0.0.1
-Password = SnickerDoodle
+Port = 438,
+IP address = 127.0.0.1,
+Password = SnickerDoodle,
 
 IP Address is given out by Chatroom creator.  IP Address will vary depending on where the Chatroom is located. 
 IP Address is your public or external IP address.  To find your external ip address, type "IP" at www.google.com and you will see your external or public IP address.
