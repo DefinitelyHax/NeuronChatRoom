@@ -13,7 +13,7 @@ print ("""
 	  ___  ___ __ _________  ___ 
 	 / _ \/ -_) // / __/ _ \/ _ \ 
 	/_//_/\__/\_,_/_/  \___/_//_/
-	server v 1.2 | susmithHCK                  
+	server v 1.2 | DefinitelyHax                  
 """)
 
 def sigint_handler(signum, frame):
